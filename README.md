@@ -1,7 +1,10 @@
-# DataScience_Tableau
-Proyecto relacionado con la preparación, análisis y visualización de datos en Tableau
+<h1 align="center"> Prácticas de Análisis y Visualización de Datos en Tableau </h1>
+
+Proyectos relacionados con la preparación, análisis y visualización de datos en ![image](https://github.com/AGCCloud/DataScience_Tableau/assets/60859315/a3439da2-9b81-4e74-9d0a-93fc426b65e8).
 
 1. # Análisis de Bonus Anual 
+
+![Badge Practica_Finalizada](https://img.shields.io/badge/STATUS-PRACTICA%20FINALIZADA-green)
 
 **Resumen:**  
 <p>
@@ -20,3 +23,4 @@ Proyecto relacionado con la preparación, análisis y visualización de datos en
 
 Link:
 [Análisis de Bonus anual](https://public.tableau.com/app/profile/ariel2737/viz/AnalisisBonusAnual_16789155720140/AnlisisdelBonusAnual)
+
