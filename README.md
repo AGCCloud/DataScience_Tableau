@@ -7,19 +7,19 @@ Proyectos de práctica relacionados con el análisis, preparación y visualizaci
 
 * [Análisis de Bonus Anual](Analisis_Bonus_Anual.md)
 
-* [Series de tiempo, agregación y filtro](#Series-de-tiempo)
+* [Series de tiempo, agregación y filtro](Series_Tiempo_Agregacion_Filtro.md)
 
-* [Mapas, Gráficos de dispersión y Dashboard](#Mapas-Graficos-de-dispersion)
+* [Mapas, Gráficos de dispersión y Dashboard](Mapa_Dispersion_Dashboard.md)
 
-* [Uniendo y combinando datos, más gráficos de doble eje](#Uniendo-combinando-datos)
+* [Uniendo y combinando datos, gráficos de doble eje](Uniendo_Combinando_Graficos_Doble_Eje.md)
 
-* [Cálculos de tablas, Dashboard avanzados, Storytelling](#Calculos-de-tablas-Dashboard)
+* [Cálculos de tablas, Dashboard avanzados, Storytelling](Tablas_Dashboard_Storytelling.md)
 
-* [Preparación de datos avanzada](#Preparacion-de-datos-avanzada)
+* [Preparación de datos avanzada](Preparacion_Datos_Avanzada.md)
 
-* [clusters, Territorios Personalizados y Características de diseño](#clusters-Territorios-Personalizados)
+* [Clusters, Territorios Personalizados y Características de diseño](Cluster_Territorios_Personalizados.md)
 
-* [Conectar a documento PDF - documento spacial](#Conectar-a-documentos)
+* [Conectar a documento PDF y documento spacial](Documento_PDF_y_Espacial.md)
 
 
 
