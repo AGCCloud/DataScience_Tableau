@@ -1,4 +1,4 @@
-1. # Uniendo y combinando datos, más gráficos de doble eje
+# Uniendo y combinando datos, más gráficos de doble eje
 
 ![Badge Practica_Finalizada](https://img.shields.io/badge/STATUS-PRACTICA%20FINALIZADA-green)
 
@@ -8,7 +8,7 @@
 </p>
 
 **Temas tratados:**  
-   - Join y blend. Circunstancias donde no se puede hacer joins. 
+   - Join y blend.  
    - Gráfico de doble eje
    - Campos calculados en blend
 
