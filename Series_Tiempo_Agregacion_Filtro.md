@@ -1,11 +1,11 @@
-1. # Series de tiempo, agregación y filtro 
+# Series de tiempo, agregación y filtro 
 
 ![Badge Practica_Finalizada](https://img.shields.io/badge/STATUS-PRACTICA%20FINALIZADA-green)
 
 **Resumen:**  
 <p>
   Estadísticas de desempleo a largo plazo en los últimos años (Long-Term-Unemployment and Statistic de EEUU)
-  **Nota:** años que abrcan los datos 2005-2015   
+  <b>Nota:</b> años que abarcan los datos 2005-2015   
 </p>
 
 **Temas tratados:**  
