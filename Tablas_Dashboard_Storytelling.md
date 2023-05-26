@@ -1,10 +1,10 @@
-1. # Cálculos de tablas, Dashboard avanzados, Storytelling 
+# Cálculos de tablas, Dashboard avanzados, Storytelling 
 
 ![Badge Practica_Finalizada](https://img.shields.io/badge/STATUS-PRACTICA%20FINALIZADA-green)
 
 **Resumen:**  
 <p>
-  Para un banco de Reino Unido de reciente creación (ficticio), se realiza el análisis de como están representadas las diferentes regiones en base a un análisis de los clientes.  
+Para un banco de Reino Unido de reciente creación (ficticio), se realiza el análisis de como están representadas las diferentes regiones en base a un análisis de los clientes.  
 </p>
 
 **Temas tratados:**  
