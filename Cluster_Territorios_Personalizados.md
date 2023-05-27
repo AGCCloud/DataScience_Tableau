@@ -13,16 +13,17 @@ Además, la empresa tiene 2 regiones separadas de ventas.<br>
 </p>
 
 Se han asignado dos tareas de análisis:  
-   - Identificar cuál de las dos regiones de ventas está actuando mejor (supera a la otra en 2 de las siguientes 3 métricas)  
+   - A. Identificar cuál de las dos regiones de ventas está actuando mejor (supera a la otra en 2 de las siguientes 3 métricas)  
       * Revenue medio por ciudades
       * Gasto en marketing medio por ciudad
       * ROMI (Return on Marketing Investment) medio por ciudad. (Se trata del revenue dividido entre el gasto en marketing (Marketing spend)   
-   - Identificar cual de las 10 nuevas localidades tiene el mejor potencial para que la empresa invierta más fondos en marketing.
+   - B. Identificar cual de las 10 nuevas localidades tiene el mejor potencial para que la empresa invierta más fondos en marketing.
 
 **Temas tratados:**  
    - Territorios personalizados mediante grupos
    - Territorios personalizados mediante roles geográficos
    - Clustering
 
-Link:
-[Clusters, Territorios Personalizados y Características de diseño](https://public.tableau.com/app/profile/ariel2737/viz/StartupExpansin/InversinNuevasTiendas)
+Link:<br>
+[A_Clusters, Territorios Personalizados y Características de diseño](https://public.tableau.com/app/profile/ariel2737/viz/BestSalesRegion/RegionesdeVentas) <br>
+[B_Clusters, Territorios Personalizados y Características de diseño](https://public.tableau.com/app/profile/ariel2737/viz/StartupExpansin/InversinNuevasTiendas)
