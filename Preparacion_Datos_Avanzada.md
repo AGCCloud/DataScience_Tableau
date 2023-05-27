@@ -1,6 +1,6 @@
 # Preparación de datos avanzada 
 
-![Badge Practica_Finalizada](https://img.shields.io/badge/STATUS-PRACTICA%20FINALIZADA%20CON%20DETALLES-green)
+![Badge Practica_Finalizada](https://img.shields.io/badge/STATUS-PRACTICA%20FINALIZADA-green)
 
 **Resumen:**  
 <p>
