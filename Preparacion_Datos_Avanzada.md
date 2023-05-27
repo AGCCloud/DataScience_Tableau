@@ -1,11 +1,10 @@
-1. # Preparación de datos avanzada 
+# Preparación de datos avanzada 
 
 ![Badge Practica_Finalizada](https://img.shields.io/badge/STATUS-PRACTICA%20FINALIZADA%20CON%20DETALLES-green)
 
 **Resumen:**  
 <p>
-  Ventas anuales de vehículos personales a nivel global.<br>
-  Limpieza de datos y preparación.
+  Tablero de ventas anuales de vehículos personales a nivel global.<br>
 </p>
 
 **Temas tratados:**  
@@ -14,7 +13,6 @@
    - Pivotaje
    - Grid de metadatos
    - Errores con mapas y datos geográficos
-
    - Formatear al tipo correcto
    - Combinar los datos fucionándolos
    - Limpiar Datos
@@ -22,5 +20,6 @@
    - Entender el formato
 
 
-Link:
-[Preparación de datos avanzada](https://public.tableau.com/app/profile/ariel2737/viz/VehiclessoldV2/DashbordVentasVehculos)
+Link:<br>
+[V1_Preparación de datos avanzada](https://public.tableau.com/app/profile/ariel2737/viz/Vehiclessold_16799480402170/DashboardVentadeVehculos) <br>
+[V2_Preparación de datos avanzada](https://public.tableau.com/app/profile/ariel2737/viz/VehiclessoldV2/DashbordVentasVehculos)
