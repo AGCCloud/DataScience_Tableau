@@ -8,18 +8,14 @@
 </p>
 
 **Temas tratados:**  
+   - Entender el formato
    - Intérprete de datos
-   - Separación de los datos
+   - Limpiar datos
    - Pivotaje
+   - Split de datos
    - Grid de metadatos
    - Errores con mapas y datos geográficos
-   - Formatear al tipo correcto
-   - Combinar los datos fucionándolos
-   - Limpiar Datos
-   - Deshacerse del ruido
-   - Entender el formato
-
-
+   
 Link:<br>
 [V1_Preparación de datos avanzada](https://public.tableau.com/app/profile/ariel2737/viz/Vehiclessold_16799480402170/DashboardVentadeVehculos) <br>
 [V2_Preparación de datos avanzada](https://public.tableau.com/app/profile/ariel2737/viz/VehiclessoldV2/DashbordVentasVehculos)
